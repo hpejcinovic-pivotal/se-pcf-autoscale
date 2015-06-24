@@ -3,6 +3,6 @@ applications:
 - name: se-scale-demo
   memory: 128M
   instances: 1
-  host: se-demo-scale-${random-word}
+  host: se-demo-scale
 #  domain: cloudfoundry.dyndns.org
   path: .
